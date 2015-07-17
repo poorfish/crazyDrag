@@ -7,6 +7,19 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BB9B2F011B578D5A00DED0C3 /* AboutViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BB9B2EFF1B578D5A00DED0C3 /* AboutViewController.m */; };
+		BB9B2F021B578D5A00DED0C3 /* AboutViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = BB9B2F001B578D5A00DED0C3 /* AboutViewController.xib */; };
+		BB9B2F1F1B5799D300DED0C3 /* Button-Highlighted.png in Resources */ = {isa = PBXBuildFile; fileRef = BB9B2F171B5799D300DED0C3 /* Button-Highlighted.png */; };
+		BB9B2F201B5799D300DED0C3 /* Button-Normal.png in Resources */ = {isa = PBXBuildFile; fileRef = BB9B2F181B5799D300DED0C3 /* Button-Normal.png */; };
+		BB9B2F211B5799D300DED0C3 /* SliderThumb-Highlighted.png in Resources */ = {isa = PBXBuildFile; fileRef = BB9B2F191B5799D300DED0C3 /* SliderThumb-Highlighted.png */; };
+		BB9B2F221B5799D300DED0C3 /* SliderThumb-Normal.png in Resources */ = {isa = PBXBuildFile; fileRef = BB9B2F1A1B5799D300DED0C3 /* SliderThumb-Normal.png */; };
+		BB9B2F231B5799D300DED0C3 /* SliderTrackLeft.png in Resources */ = {isa = PBXBuildFile; fileRef = BB9B2F1B1B5799D300DED0C3 /* SliderTrackLeft.png */; };
+		BB9B2F241B5799D300DED0C3 /* SliderTrackRight.png in Resources */ = {isa = PBXBuildFile; fileRef = BB9B2F1C1B5799D300DED0C3 /* SliderTrackRight.png */; };
+		BB9B2F251B5799D300DED0C3 /* StartOverButton.png in Resources */ = {isa = PBXBuildFile; fileRef = BB9B2F1D1B5799D300DED0C3 /* StartOverButton.png */; };
+		BB9B2F261B5799D300DED0C3 /* StartOverIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = BB9B2F1E1B5799D300DED0C3 /* StartOverIcon.png */; };
+		BB9B2F281B579A1E00DED0C3 /* Background.png in Resources */ = {isa = PBXBuildFile; fileRef = BB9B2F271B579A1E00DED0C3 /* Background.png */; };
+		BB9B2F2A1B57A28900DED0C3 /* CrazyDrag.html in Resources */ = {isa = PBXBuildFile; fileRef = BB9B2F291B57A28900DED0C3 /* CrazyDrag.html */; };
+		BB9B2F2C1B57AE9400DED0C3 /* no.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = BB9B2F2B1B57AE9400DED0C3 /* no.mp3 */; };
 		BBD98E661B54FDA10087310A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = BBD98E651B54FDA10087310A /* main.m */; };
 		BBD98E691B54FDA10087310A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = BBD98E681B54FDA10087310A /* AppDelegate.m */; };
 		BBD98E6C1B54FDA10087310A /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BBD98E6B1B54FDA10087310A /* ViewController.m */; };
@@ -27,6 +40,20 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		BB9B2EFE1B578D5A00DED0C3 /* AboutViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AboutViewController.h; sourceTree = "<group>"; };
+		BB9B2EFF1B578D5A00DED0C3 /* AboutViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AboutViewController.m; sourceTree = "<group>"; };
+		BB9B2F001B578D5A00DED0C3 /* AboutViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = AboutViewController.xib; sourceTree = "<group>"; };
+		BB9B2F171B5799D300DED0C3 /* Button-Highlighted.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Button-Highlighted.png"; sourceTree = "<group>"; };
+		BB9B2F181B5799D300DED0C3 /* Button-Normal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Button-Normal.png"; sourceTree = "<group>"; };
+		BB9B2F191B5799D300DED0C3 /* SliderThumb-Highlighted.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SliderThumb-Highlighted.png"; sourceTree = "<group>"; };
+		BB9B2F1A1B5799D300DED0C3 /* SliderThumb-Normal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SliderThumb-Normal.png"; sourceTree = "<group>"; };
+		BB9B2F1B1B5799D300DED0C3 /* SliderTrackLeft.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = SliderTrackLeft.png; sourceTree = "<group>"; };
+		BB9B2F1C1B5799D300DED0C3 /* SliderTrackRight.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = SliderTrackRight.png; sourceTree = "<group>"; };
+		BB9B2F1D1B5799D300DED0C3 /* StartOverButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = StartOverButton.png; sourceTree = "<group>"; };
+		BB9B2F1E1B5799D300DED0C3 /* StartOverIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = StartOverIcon.png; sourceTree = "<group>"; };
+		BB9B2F271B579A1E00DED0C3 /* Background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Background.png; path = ../Background.png; sourceTree = "<group>"; };
+		BB9B2F291B57A28900DED0C3 /* CrazyDrag.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = CrazyDrag.html; sourceTree = "<group>"; };
+		BB9B2F2B1B57AE9400DED0C3 /* no.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = no.mp3; sourceTree = "<group>"; };
 		BBD98E601B54FDA10087310A /* CrazyDrag.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CrazyDrag.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BBD98E641B54FDA10087310A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BBD98E651B54FDA10087310A /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -60,6 +87,23 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		BB9B2F161B5799D300DED0C3 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				BB9B2F271B579A1E00DED0C3 /* Background.png */,
+				BB9B2F171B5799D300DED0C3 /* Button-Highlighted.png */,
+				BB9B2F181B5799D300DED0C3 /* Button-Normal.png */,
+				BB9B2F191B5799D300DED0C3 /* SliderThumb-Highlighted.png */,
+				BB9B2F1A1B5799D300DED0C3 /* SliderThumb-Normal.png */,
+				BB9B2F1B1B5799D300DED0C3 /* SliderTrackLeft.png */,
+				BB9B2F1C1B5799D300DED0C3 /* SliderTrackRight.png */,
+				BB9B2F1D1B5799D300DED0C3 /* StartOverButton.png */,
+				BB9B2F1E1B5799D300DED0C3 /* StartOverIcon.png */,
+			);
+			name = Images;
+			path = ../Images;
+			sourceTree = "<group>";
+		};
 		BBD98E571B54FDA10087310A = {
 			isa = PBXGroup;
 			children = (
@@ -81,6 +125,12 @@
 		BBD98E621B54FDA10087310A /* CrazyDrag */ = {
 			isa = PBXGroup;
 			children = (
+				BB9B2F161B5799D300DED0C3 /* Images */,
+				BB9B2EFE1B578D5A00DED0C3 /* AboutViewController.h */,
+				BB9B2EFF1B578D5A00DED0C3 /* AboutViewController.m */,
+				BB9B2F2B1B57AE9400DED0C3 /* no.mp3 */,
+				BB9B2F001B578D5A00DED0C3 /* AboutViewController.xib */,
+				BB9B2F291B57A28900DED0C3 /* CrazyDrag.html */,
 				BBD98E671B54FDA10087310A /* AppDelegate.h */,
 				BBD98E681B54FDA10087310A /* AppDelegate.m */,
 				BBD98E6A1B54FDA10087310A /* ViewController.h */,
@@ -200,9 +250,21 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BB9B2F201B5799D300DED0C3 /* Button-Normal.png in Resources */,
 				BBD98E6F1B54FDA10087310A /* Main.storyboard in Resources */,
+				BB9B2F221B5799D300DED0C3 /* SliderThumb-Normal.png in Resources */,
+				BB9B2F261B5799D300DED0C3 /* StartOverIcon.png in Resources */,
+				BB9B2F2A1B57A28900DED0C3 /* CrazyDrag.html in Resources */,
+				BB9B2F281B579A1E00DED0C3 /* Background.png in Resources */,
+				BB9B2F241B5799D300DED0C3 /* SliderTrackRight.png in Resources */,
+				BB9B2F251B5799D300DED0C3 /* StartOverButton.png in Resources */,
+				BB9B2F231B5799D300DED0C3 /* SliderTrackLeft.png in Resources */,
+				BB9B2F1F1B5799D300DED0C3 /* Button-Highlighted.png in Resources */,
 				BBD98E741B54FDA10087310A /* LaunchScreen.xib in Resources */,
+				BB9B2F2C1B57AE9400DED0C3 /* no.mp3 in Resources */,
+				BB9B2F021B578D5A00DED0C3 /* AboutViewController.xib in Resources */,
 				BBD98E711B54FDA10087310A /* Images.xcassets in Resources */,
+				BB9B2F211B5799D300DED0C3 /* SliderThumb-Highlighted.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -222,6 +284,7 @@
 			files = (
 				BBD98E6C1B54FDA10087310A /* ViewController.m in Sources */,
 				BBD98E691B54FDA10087310A /* AppDelegate.m in Sources */,
+				BB9B2F011B578D5A00DED0C3 /* AboutViewController.m in Sources */,
 				BBD98E661B54FDA10087310A /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
